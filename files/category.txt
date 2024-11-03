@@ -1,0 +1,4 @@
+cate001	Category1	1111
+cate002	Category2	22222
+cate003	Category3	33333
+cate004	Category4	444444
